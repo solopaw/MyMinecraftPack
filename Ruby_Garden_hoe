@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:ruby_Garden_hoe"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "XX",
+      " # ",
+      " # "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:stick"
+      },
+      "X": {
+        "item": "minecraft:ruby"
+      }
+    },
+    "result": {
+      "item": "minecraft:ruby_Garden_hoe"
+    }
+  }
+}
